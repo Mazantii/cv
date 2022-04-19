@@ -2,17 +2,21 @@
 /*-----HTML Tags-----*/
  
 h1 {
+  margin: 50px auto 0 auto;
   font-family: 'Square Peg', cursive;
-  font-size: 100px;
-  margin-top: 0;
+  font-size: 600%;
+  color: #66BFBF;
 }
  
 h2{
   font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #66BFBF;
 }
 
 h3{
   font-family: 'Montserrat', sans-serif;
+  color: #11999E;
 }
  
 body{
@@ -23,6 +27,7 @@ body{
  
 a {
   text-decoration: none;
+  color: #11999E;
 }
 /*-----Class Tags-----*/
 .top-container {
@@ -47,5 +52,11 @@ padding-top: 100px;
 .mountain{
   margin: 0 auto;
 }
-
+.title-text{
+  font-size: 2.5rem;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
 /*-----ID Tags-----*/
