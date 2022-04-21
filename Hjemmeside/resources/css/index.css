@@ -29,9 +29,10 @@ a {
   text-decoration: none;
   color: #11999E;
 }
+
 /*-----Class Tags-----*/
 .top-container {
-background-color: #F7FD04;
+background-color: #fdffe4;
 position: relative;
 padding-top: 100px;
 }
